@@ -16,11 +16,12 @@ public:
         ListNode* fast = dummy;
         ListNode* slow = dummy;
 
-        while(fast->next){
+        for (int i = 1; i <= n+1; i++){
             fast = fast->next;
-            if(n-- <= 0){
-                slow = slow->next;
-            }
+        }
+        while(fast){
+            fast = fast->next;
+            slow = slow->next;
         }
         slow->next = slow->next->next;
         return dummy->next;
