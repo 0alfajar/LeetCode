@@ -1,8 +1,3 @@
 class Solution:
     def commonFactors(self, a: int, b: int) -> int:
-        n = min(a, b)
-        ans = 0
-        for i in range(1, n + 1):
-            if a % i == 0 and b % i == 0:
-                ans += 1
-        return ans
+        return sum([a%x==0 and b%x==0 for x in range(1,min(a,b)+1)])
