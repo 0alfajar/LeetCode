@@ -1,4 +1,5 @@
 import pandas as pd
 
 def getDataframeSize(players: pd.DataFrame) -> List[int]:
-    return list(players.shape)
+    array = [players.shape[0], players.shape[1]]
+    return array
