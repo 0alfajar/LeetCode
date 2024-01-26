@@ -1,13 +1,16 @@
 class Solution {
 public:
     int trailingZeroes(int n) {
-        int count = 0;
-
-        while (n > 0) {
-            n /= 5;
-            count += n;
+        int factorial = 1;
+        for(int i = 1; i <= n; i++){
+            factorial *= i;
         }
 
+        string s = to_string(factorial);
+        int count = 0;
+        for(int i = 0; i < s.size(); i++){
+            if(s[i] == '0') count++;
+        }
         return count;
     }
 };
