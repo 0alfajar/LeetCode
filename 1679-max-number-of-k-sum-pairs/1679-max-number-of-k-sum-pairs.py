@@ -6,7 +6,7 @@ class Solution:
         max_op = 0
 
         while left < right:
-            if (nums[left] + nums[right] == k):
+            if nums[left] + nums[right] == k:
                 max_op += 1
                 left += 1
                 right -= 1
@@ -14,4 +14,5 @@ class Solution:
                 left += 1
             else:
                 right -= 1
+
         return max_op
