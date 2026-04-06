@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/0alfajar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/0alfajar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/0alfajar/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Math
@@ -24,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3701-compute-alternating-sum](https://github.com/0alfajar/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/0alfajar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/0alfajar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
