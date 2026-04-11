@@ -25,12 +25,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/0alfajar/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2325-decode-the-message](https://github.com/0alfajar/LeetCode/tree/main/2325-decode-the-message/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/0alfajar/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/0alfajar/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/0alfajar/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/0alfajar/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/0alfajar/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sorting
