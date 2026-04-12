@@ -47,4 +47,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/0alfajar/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/0alfajar/LeetCode/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/0alfajar/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
