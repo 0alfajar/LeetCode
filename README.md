@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3668-restore-finishing-order](https://github.com/0alfajar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/0alfajar/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/0alfajar/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/0alfajar/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/0alfajar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/0alfajar/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/0alfajar/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/0alfajar/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
