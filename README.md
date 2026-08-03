@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/0alfajar/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/0alfajar/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/0alfajar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/0alfajar/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/0alfajar/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/0alfajar/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/0alfajar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2325-decode-the-message](https://github.com/0alfajar/LeetCode/tree/main/2325-decode-the-message/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/0alfajar/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/0alfajar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/0alfajar/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/0alfajar/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
@@ -99,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/0alfajar/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/0alfajar/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
