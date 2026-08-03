@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/0alfajar/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/0alfajar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/0alfajar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/0alfajar/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/0alfajar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/0alfajar/LeetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/0alfajar/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/0alfajar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/0alfajar/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/0alfajar/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/0alfajar/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/0alfajar/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/0alfajar/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/0alfajar/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
