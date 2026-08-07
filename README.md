@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/0alfajar/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1470-shuffle-the-array](https://github.com/0alfajar/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/0alfajar/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/0alfajar/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/0alfajar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/0alfajar/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/0alfajar/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/0alfajar/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
