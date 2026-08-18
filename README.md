@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/0alfajar/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1470-shuffle-the-array](https://github.com/0alfajar/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/0alfajar/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/0alfajar/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/0alfajar/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/0alfajar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/0alfajar/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -91,10 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/0alfajar/LeetCode/tree/main/0190-reverse-bits/) | Easy |
+| [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1720-decode-xored-array](https://github.com/0alfajar/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/0alfajar/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/0alfajar/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Number Theory
@@ -114,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/0alfajar/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
