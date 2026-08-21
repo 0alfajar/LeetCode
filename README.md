@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/0alfajar/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2427-number-of-common-factors](https://github.com/0alfajar/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/0alfajar/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/0alfajar/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
