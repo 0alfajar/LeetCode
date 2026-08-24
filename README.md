@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/0alfajar/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/0alfajar/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/0alfajar/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/0alfajar/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/0alfajar/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/0alfajar/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/0alfajar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/0alfajar/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/0alfajar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/0alfajar/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/0alfajar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -131,4 +133,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/0alfajar/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 <!---LeetCode Topics End-->
