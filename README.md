@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/0alfajar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/0alfajar/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/0alfajar/LeetCode/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/0alfajar/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/0alfajar/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/0alfajar/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/0alfajar/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/0alfajar/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1720-decode-xored-array](https://github.com/0alfajar/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/0alfajar/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
