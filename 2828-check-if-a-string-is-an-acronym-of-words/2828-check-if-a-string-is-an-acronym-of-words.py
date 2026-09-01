@@ -5,8 +5,5 @@ class Solution:
         for word in words:
             first_char += word[0]
         
-        if first_char == s:
-            return True
-        else:
-            return False
+        return first_char == s
         
