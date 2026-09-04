@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/0alfajar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/0alfajar/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3895-count-digit-appearances](https://github.com/0alfajar/LeetCode/tree/main/3895-count-digit-appearances/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/0alfajar/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/0alfajar/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/0alfajar/LeetCode/tree/main/4020-elevator-requests-i/) | Easy |
 ## Math
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/0alfajar/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/0alfajar/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
