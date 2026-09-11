@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/0alfajar/LeetCode/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/0alfajar/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/0alfajar/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/0alfajar/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3668-restore-finishing-order](https://github.com/0alfajar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/0alfajar/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/0alfajar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-decode-the-message](https://github.com/0alfajar/LeetCode/tree/main/2325-decode-the-message/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0alfajar/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/0alfajar/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/0alfajar/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3174-clear-digits](https://github.com/0alfajar/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/0alfajar/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/0alfajar/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -173,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/0alfajar/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/0alfajar/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
