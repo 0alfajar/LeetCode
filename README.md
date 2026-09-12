@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/0alfajar/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1470-shuffle-the-array](https://github.com/0alfajar/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/0alfajar/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/0alfajar/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1720-decode-xored-array](https://github.com/0alfajar/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/0alfajar/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/0alfajar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/0alfajar/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/0alfajar/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2427-number-of-common-factors](https://github.com/0alfajar/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/0alfajar/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/0alfajar/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/0alfajar/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/0alfajar/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Enumeration
