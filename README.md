@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/0alfajar/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/0alfajar/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/0alfajar/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
