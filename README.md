@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1587-bank-account-summary-ii](https://github.com/0alfajar/LeetCode/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/0alfajar/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/0alfajar/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
+| [1890-the-latest-login-in-2020](https://github.com/0alfajar/LeetCode/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/0alfajar/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
