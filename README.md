@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/0alfajar/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/0alfajar/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/0alfajar/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
+| [1795-rearrange-products-table](https://github.com/0alfajar/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/0alfajar/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
