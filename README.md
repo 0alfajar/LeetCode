@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/0alfajar/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/0alfajar/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/0alfajar/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [1251-average-selling-price](https://github.com/0alfajar/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1393-capital-gainloss](https://github.com/0alfajar/LeetCode/tree/main/1393-capital-gainloss/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/0alfajar/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/0alfajar/LeetCode/tree/main/1587-bank-account-summary-ii/) | Easy |
