@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/0alfajar/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/0alfajar/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0alfajar/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/0alfajar/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/0alfajar/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/0alfajar/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/0alfajar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0alfajar/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/0alfajar/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0alfajar/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/0alfajar/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/0alfajar/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/0alfajar/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/0alfajar/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
