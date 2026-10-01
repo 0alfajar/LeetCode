@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1716-calculate-money-in-leetcode-bank](https://github.com/0alfajar/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/0alfajar/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2427-number-of-common-factors](https://github.com/0alfajar/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/0alfajar/LeetCode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/0alfajar/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/0alfajar/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/0alfajar/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/0alfajar/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2427-number-of-common-factors](https://github.com/0alfajar/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/0alfajar/LeetCode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/0alfajar/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/0alfajar/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Segment Tree
