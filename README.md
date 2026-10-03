@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/0alfajar/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/0alfajar/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0619-biggest-single-number](https://github.com/0alfajar/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/0alfajar/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1251-average-selling-price](https://github.com/0alfajar/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1393-capital-gainloss](https://github.com/0alfajar/LeetCode/tree/main/1393-capital-gainloss/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/0alfajar/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
