@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/0alfajar/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/0alfajar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/0alfajar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/0alfajar/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/0alfajar/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/0alfajar/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/0alfajar/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/0alfajar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/0alfajar/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/0alfajar/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/0alfajar/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
