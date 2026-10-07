@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/0alfajar/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/0alfajar/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/0alfajar/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0alfajar/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2427-number-of-common-factors](https://github.com/0alfajar/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/0alfajar/LeetCode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/0alfajar/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0alfajar/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/0alfajar/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/0alfajar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/0alfajar/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -270,4 +272,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/0alfajar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0alfajar/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 <!---LeetCode Topics End-->
