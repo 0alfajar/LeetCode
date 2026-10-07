@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1393-capital-gainloss](https://github.com/0alfajar/LeetCode/tree/main/1393-capital-gainloss/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/0alfajar/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/0alfajar/LeetCode/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/0alfajar/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1729-find-followers-count](https://github.com/0alfajar/LeetCode/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/0alfajar/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/0alfajar/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
