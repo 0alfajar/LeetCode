@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/0alfajar/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/0alfajar/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/0alfajar/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/0alfajar/LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3870-count-commas-in-range](https://github.com/0alfajar/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/0alfajar/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/0alfajar/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
@@ -278,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/0alfajar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0alfajar/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/0alfajar/LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 <!---LeetCode Topics End-->
