@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2500-delete-greatest-value-in-each-row](https://github.com/0alfajar/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2540-minimum-common-value](https://github.com/0alfajar/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/0alfajar/LeetCode/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [2733-neither-minimum-nor-maximum](https://github.com/0alfajar/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0alfajar/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/0alfajar/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/0alfajar/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0alfajar/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/0alfajar/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/0alfajar/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/0alfajar/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/0alfajar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/0alfajar/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
