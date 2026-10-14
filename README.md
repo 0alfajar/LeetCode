@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3894-traffic-signal-color](https://github.com/0alfajar/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3895-count-digit-appearances](https://github.com/0alfajar/LeetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/0alfajar/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/0alfajar/LeetCode/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3760-maximum-substrings-with-distinct-start](https://github.com/0alfajar/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/0alfajar/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/0alfajar/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/0alfajar/LeetCode/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
