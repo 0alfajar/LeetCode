@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3895-count-digit-appearances](https://github.com/0alfajar/LeetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/0alfajar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/0alfajar/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3921-score-validator](https://github.com/0alfajar/LeetCode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/0alfajar/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/0alfajar/LeetCode/tree/main/4020-elevator-requests-i/) | Easy |
 ## Math
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3760-maximum-substrings-with-distinct-start](https://github.com/0alfajar/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/0alfajar/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/0alfajar/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3921-score-validator](https://github.com/0alfajar/LeetCode/tree/main/3921-score-validator/) | Easy |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/0alfajar/LeetCode/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3701-compute-alternating-sum](https://github.com/0alfajar/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/0alfajar/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/0alfajar/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3921-score-validator](https://github.com/0alfajar/LeetCode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/0alfajar/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3959-check-good-integer](https://github.com/0alfajar/LeetCode/tree/main/3959-check-good-integer/) | Easy |
 | [4020-elevator-requests-i](https://github.com/0alfajar/LeetCode/tree/main/4020-elevator-requests-i/) | Easy |
