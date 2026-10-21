@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-decode-xored-array](https://github.com/0alfajar/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/0alfajar/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/0alfajar/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/0alfajar/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/0alfajar/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/0alfajar/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1929-concatenation-of-array](https://github.com/0alfajar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/0alfajar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/0alfajar/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0alfajar/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/0alfajar/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
