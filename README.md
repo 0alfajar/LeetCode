@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/0alfajar/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/0alfajar/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/0alfajar/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [0824-goat-latin](https://github.com/0alfajar/LeetCode/tree/main/0824-goat-latin/) | Easy |
 | [1002-find-common-characters](https://github.com/0alfajar/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/0alfajar/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/0alfajar/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
