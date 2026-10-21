@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/0alfajar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/0alfajar/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/0alfajar/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/0alfajar/LeetCode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2325-decode-the-message](https://github.com/0alfajar/LeetCode/tree/main/2325-decode-the-message/) | Easy |
 | [2540-minimum-common-value](https://github.com/0alfajar/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/0alfajar/LeetCode/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/0alfajar/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/0alfajar/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/0alfajar/LeetCode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/0alfajar/LeetCode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/0alfajar/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2325-decode-the-message](https://github.com/0alfajar/LeetCode/tree/main/2325-decode-the-message/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0alfajar/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
