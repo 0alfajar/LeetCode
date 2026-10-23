@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/0alfajar/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1002-find-common-characters](https://github.com/0alfajar/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1260-shift-2d-grid](https://github.com/0alfajar/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/0alfajar/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/0alfajar/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/0alfajar/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/0alfajar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/0alfajar/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/0alfajar/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/0alfajar/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3174-clear-digits](https://github.com/0alfajar/LeetCode/tree/main/3174-clear-digits/) | Easy |
