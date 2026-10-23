@@ -7,8 +7,7 @@ class Solution:
             elif ops[i] == "D":
                 records.append(int(records[-1]) * 2)
             elif ops[i] == "+":
-                record = records[-1] + records[-2]
-                records.append(record)
+                records.append(records[-1] + records[-2])
             else:
                 records.append(int(ops[i]))
         
