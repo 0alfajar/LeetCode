@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/0alfajar/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/0alfajar/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/0alfajar/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/0alfajar/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1720-decode-xored-array](https://github.com/0alfajar/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/0alfajar/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/0alfajar/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/0alfajar/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0alfajar/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/0alfajar/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/0alfajar/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/0alfajar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/0alfajar/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/0alfajar/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0alfajar/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/0alfajar/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
