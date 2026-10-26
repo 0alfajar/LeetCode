@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1716-calculate-money-in-leetcode-bank](https://github.com/0alfajar/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/0alfajar/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0alfajar/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2409-count-days-spent-together](https://github.com/0alfajar/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2427-number-of-common-factors](https://github.com/0alfajar/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/0alfajar/LeetCode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/0alfajar/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/0alfajar/LeetCode/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/0alfajar/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2325-decode-the-message](https://github.com/0alfajar/LeetCode/tree/main/2325-decode-the-message/) | Easy |
+| [2409-count-days-spent-together](https://github.com/0alfajar/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0alfajar/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/0alfajar/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0alfajar/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
