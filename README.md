@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/0alfajar/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/0alfajar/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/0alfajar/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/0alfajar/LeetCode/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/0alfajar/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/0alfajar/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/0alfajar/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
