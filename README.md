@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3280-convert-date-to-binary](https://github.com/0alfajar/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/0alfajar/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/0alfajar/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/0alfajar/LeetCode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/0alfajar/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/0alfajar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/0alfajar/LeetCode/tree/main/3516-find-closest-person/) | Easy |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/0alfajar/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/0alfajar/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/0alfajar/LeetCode/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/0alfajar/LeetCode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/0alfajar/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
