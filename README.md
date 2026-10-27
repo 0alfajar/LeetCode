@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/0alfajar/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0682-baseball-game](https://github.com/0alfajar/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1002-find-common-characters](https://github.com/0alfajar/LeetCode/tree/main/1002-find-common-characters/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/0alfajar/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1002-find-common-characters](https://github.com/0alfajar/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/0alfajar/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/0alfajar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/0alfajar/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0alfajar/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
