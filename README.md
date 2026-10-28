@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/0alfajar/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/0alfajar/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1720-decode-xored-array](https://github.com/0alfajar/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/0alfajar/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/0alfajar/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/0alfajar/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/0alfajar/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/0alfajar/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/0alfajar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/0alfajar/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/0alfajar/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/0alfajar/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/0alfajar/LeetCode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/0alfajar/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/0alfajar/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/0alfajar/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/0alfajar/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/0alfajar/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/0alfajar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/0alfajar/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
