@@ -346,4 +346,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/0alfajar/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/0alfajar/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/0alfajar/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 <!---LeetCode Topics End-->
