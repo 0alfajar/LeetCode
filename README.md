@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/0alfajar/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/0alfajar/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1002-find-common-characters](https://github.com/0alfajar/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/0alfajar/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/0alfajar/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/0alfajar/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/0alfajar/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0alfajar/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -357,4 +359,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/0alfajar/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/0alfajar/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
